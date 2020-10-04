@@ -32,3 +32,4 @@ Pull requests should include the following:
 - CPP
 - Java
 - Python
+- Dart
