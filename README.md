@@ -33,3 +33,7 @@ Pull requests should include the following:
 - Java
 - Python
 - Dart
+
+[Contribution guidelines for this project](/CONTRIBUTING.md)
+
+
