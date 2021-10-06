@@ -28,7 +28,7 @@ Pull requests should include the following:
 
 
 ### Languages Used Already:
-
+- C
 - CPP
 - Java
 - Python
