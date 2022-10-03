@@ -12,7 +12,7 @@
 <ol> 
   <li>Create a folder of the month of the question you are contributing. (if not already there) </li>
   <li>Create a folder of the day of the question you are contributing. (if not already there) </li>
-  <li> Submit the file naming Solution_<lang>_<runtime> </li>
+  <li> Submit the file naming solution </li>
 </ol>
     
 ## Leetcode Contest Problem
@@ -20,7 +20,7 @@
 <ol> 
   <li>Create a folder of the contest of the question you are contributing. (if not already there) </li>
   <li>Create a folder of the question you are contributing. (if not already there) </li>
-  <li> Submit the file naming Solution_<lang>_<runtime> </li>
+  <li> Submit the file naming solution </li>
 </ol>
   
   
