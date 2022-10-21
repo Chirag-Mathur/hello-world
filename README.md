@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
+<img src="https://pbs.twimg.com/card_img/1580904894860787713/BhjENYJl?format=jpg&name=4096x4096">
 </p>
 
 ## About this Repository:
